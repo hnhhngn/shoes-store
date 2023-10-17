@@ -1,0 +1,70 @@
+.custom-control-input{
+
+    margin-left: 500px;
+}
+/* .nav-item .nav-link{
+    background: #fff !important;
+} */
+
+.form-control{
+    height: 40px;
+}
+.btn-outline-primary-2 {
+    /* color: #c96 ; */
+    background-color: transparent;
+    background-image: none;
+    border-color: #c96 !important;
+    box-shadow: none !important;
+}
+
+.btn-outline-primary-2:hover span,.btn-outline-primary-2:hover i{
+    color: #fff !important;
+}
+
+/* .btn-outline-primary-2:hover span,.btn-outline-primary-2::selection{
+    color: #fff !important;
+    background-color: #c96 !important;
+} */
+
+.btn-outline-primary-2::selection span{
+    color: #fff !important;
+}
+
+.btn {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    padding: .85rem 1.5rem !important;
+    font-weight: 400;
+    font-size: 1.4rem !important;
+    line-height: 1.5 !important;
+    letter-spacing: -.01em !important;
+    /* min-width: 170px !important; */
+    border-radius: 0 !important;
+    white-space: normal !important;
+    transition: all 0.3s !important;
+}
+.custom-control-label {
+    position: static;
+    margin-bottom: 0;
+    margin-top: 0.2rem !;
+    font-size: 1.4rem;
+    padding-left: 3.6rem;
+    margin-left: -2.6rem;
+}
+.custom-control-label::before {
+    left: 0;
+    top: .6rem;
+    width: 1.6rem;
+    height: 1.6rem;
+    background-color: #f9f9f9;
+    border: 1px solid #dadada;
+    box-shadow: none !important;
+}
+.custom-control-label::after {
+    left: 0;
+    top: .6rem;
+    width: 1.6rem;
+    height: 1.6rem;
+}

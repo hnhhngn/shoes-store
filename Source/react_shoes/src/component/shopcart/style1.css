@@ -1,0 +1,27 @@
+.radiobtn{
+    margin-left: 20px;
+}
+
+.btn-outline-primary-2:hover{
+    color: #fff !important;
+}
+.btn-outline-dark-2:hover{
+    color: #CC9966 !important;
+}
+.select-custom #size{
+    padding-right: 0px !important;
+    text-align-last: left;
+}
+
+.cart-product-quantity #inputQuantity{
+    font-size: 16px;
+    padding: 0;
+    text-align-last: center !important;
+}
+.cart-product-quantity{
+    width: 60px;
+}
+
+.input[type=checkbox] {
+    transform: scale(1.5) !important;
+}

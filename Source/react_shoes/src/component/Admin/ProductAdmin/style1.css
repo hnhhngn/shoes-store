@@ -1,0 +1,20 @@
+.form_product{
+    font-size: 16px;
+}
+
+.modal_product{
+   width: 100%;
+}
+
+.btn-block{
+    width: 10px !important;
+    padding-left: 50px;
+  }
+
+  .btntest{
+      background-color:white !important;
+  }
+  .btntest:hover {
+    background-color:blanchedalmond !important;
+    color: white;
+  }
