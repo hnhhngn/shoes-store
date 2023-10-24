@@ -1,0 +1,7 @@
+
+# cau hinh amazon
+amazonProperties:
+  endpointUrl: https://s3.us-east-2.amazonaws.com
+  accessKey: AKIAXUJG4CPZDEVNJB7A
+  secretKey: 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
+  bucketName: myawsbucketappfile
