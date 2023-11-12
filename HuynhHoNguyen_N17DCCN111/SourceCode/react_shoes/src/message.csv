@@ -1,0 +1,27 @@
+#Common
+MSG_COMMON_M001,Bạn phải đăng nhập để thực hiện thao tác này
+MSG_COMMON_M002,Đã thêm sản phẩm vào giỏ hàng
+MSG_COMMON_M003,Đã thêm sản phẩm vào yêu thích
+#Login
+ERR_USERNAME_E001,Tên đăng nhập không được để trống
+ERR_USERNAME_E002,Tên đăng nhập phải đúng định dạng example@mail.com
+MSG_LOGIN_E001,Kiểm tra lại email và password
+MSG_LOGIN_SUCCESS,Đăng nhập thành công
+#Shopcart
+ERR_SIZE_E001,Size phải từ 35 đến 42
+ERR_SIZE_E002,Đã có sản phẩm cùng size trong giỏ hàng
+ERR_QUAN_E001,Số lượng đã nhập không hợp lệ
+ERR_QUAN_E002,Sô lượng tồn kho không đủ
+#AminProduct
+MSG_PRODUCT_SUCCESS,Tạo sản phẩm thành công
+ERR_SIZE_E003,Chọn ít nhất 1 size
+ERR_IMG_E001,Tối đa 5 ảnh
+ERR_IMG_E002,Tối thiểu 1 ảnh
+ERR_IMG_E003,Số ảnh hợp lệ phải từ 1 đến 5
+ERR_PDNM_E001,Tên sản phẩm dài từ 5 đến 100 ký tự
+ERR_DES_E001,Thêm mô tả sản phẩm! Từ 5 đến 500 ký tự
+ERR_PRICE_E001,Giá sản phẩm không hợp lệ
+ERR_UNI_E001, Nhập thương hiệu sản phẩm
+ERR_COLOR_E001,Chưa chọn màu
+ERR_CRTBY_E001,Người tạo không xác định
+ERR_STATUS_E001,Trạng thái sản phẩm không xác định

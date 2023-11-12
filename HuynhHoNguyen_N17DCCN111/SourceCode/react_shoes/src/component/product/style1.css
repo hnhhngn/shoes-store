@@ -1,0 +1,21 @@
+ .product-main-image{
+    width: 50px;
+    height: 50px;
+}
+
+.product-main-image{flex:0 0 50% 0}
+.product-main-image{padding-left:.5rem;padding-right:.5rem}
+.product-details-footer{
+    margin-left: 150px;
+}
+
+#product-zoom-gallery{
+    width: 100%;
+}
+.rowproduct{
+    display: flex;
+}
+#size,#quantity{
+    text-align-last:center ;
+    font-size: 16px;
+}

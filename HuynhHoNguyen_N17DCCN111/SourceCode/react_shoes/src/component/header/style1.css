@@ -1,0 +1,26 @@
+.menu.sf-arrows{
+    margin-right: 200px;
+}
+
+.dangnhap{
+    width: 80px;
+    margin-top: 10px;
+}
+
+.dangnhap1{
+    width: 100px;
+    margin-top: 10px;
+}
+
+
+.logo{
+    margin-right: 20px;
+}
+
+.wishlist-link:hover p,.wishlist-link:hover i{
+    color: #CC9966
+}
+
+.widget-search .btn {
+    right: -60px !important;
+}
